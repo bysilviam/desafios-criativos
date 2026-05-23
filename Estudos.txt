@@ -1,0 +1,3 @@
+Quero que a IA gere um plano de estudos para que universitários possam preencher para manter a organização dos estudos.
+Considere o seguinte contexto: organização diária. O conteúdo deve ter formato simples e sem linguagem técnica.
+Quero que a IA gere um plano de estudos para estudantes universitários, com o objetivo de manter a organização dos estudos. Considere o seguinte contexto: Organização diária. O conteúdo deve ter formato simples e sem linguagem técnica.
